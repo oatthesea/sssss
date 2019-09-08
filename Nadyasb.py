@@ -210,6 +210,7 @@ def helptexttospeech():
                          "╠ vi : Vietnamese" + "\n" + \
                          "╠ cy : Welsh" + "\n" + \
                          "╚══[ LANG ]" + "\n" + "\n\n" + \
+
     return helpTextToSpeech
     
 def helptranslate():
@@ -321,6 +322,7 @@ def helptranslate():
                        "╠ fil : Filipino" + "\n" + \
                        "╠ he : Hebrew" + "\n" + \
                        "╚══[ LANG ]" + "\n" + "\n\n" + \
+
     return helpTranslate
 #==============================================================================#
 def lineBot(op):
